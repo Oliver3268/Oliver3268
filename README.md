@@ -1,4 +1,5 @@
 ### Oliver Gladys
+I am currently a senior at the University of Pittsburgh studying Computer Science.
 
 <!--
 **Oliver3268/Oliver3268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
