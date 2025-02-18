@@ -1,5 +1,7 @@
 ### Oliver Gladys
-I am currently a senior at the University of Pittsburgh studying Computer Science.
+I am a Computer Science Graduate from the University of Pittsburgh.  I am currently looking to start my professional career in entry level positions related to Software Development, Software Engineering, Web Development, and other tech related positions.  I have a solid academic foundation in data structures, 
+algorithms, and software design, complemented by practical experience in Java, Python, and web development. I have a proven ability to adapt quickly and 
+contribute to team-oriented projects.
 
 <!--
 **Oliver3268/Oliver3268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
